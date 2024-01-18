@@ -1,0 +1,15 @@
+p{
+      color: blue;
+      width: 1000px;
+      border: 1px;
+      background-color: rgb(172, 255, 227); /* Define a cor do fundo*/
+       
+        
+      
+}
+div{
+      border: 2px solid #000000; /* Cria uma borda sólida de 2 pixels com cor preta */
+      border-radius: 10px; /* Adiciona cantos arredondados de 10 pixels a uma div */
+      box-shadow: 2px 2px 4px #888; /* Adiciona uma sombra suave à borda de um botão */
+      background-image: url('../imagens/wallpaper.jpg');/* Adiciona uma imagem como fundo de uma div */
+}
